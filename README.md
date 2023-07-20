@@ -7,7 +7,7 @@
 Using data visualization techniques, and additional qualitative research, how did the social media companies (FB - Facebook, ETSY - Etsy, PINS - Pinterest, SNAP - Snapchat and TWTR - Twitter, perform pre- and post- pandemic in the U.S.? 
 
 
-Independent variable (target) - factors that  releative to the impact of the company's stock price. 
+Independent variable (target) - factors that  relate to the impact of the company's stock price. 
 ### Retrieve and Clean Data 
 
 
